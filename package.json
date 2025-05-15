@@ -2,6 +2,12 @@
   "name": "constructflow",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Mason Mohon",
+    "email": "your.email@example.com"
+  },
+  "license": "UNLICENSED",
+  "description": "Streamline your workflow with our all-in-one project management software",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
